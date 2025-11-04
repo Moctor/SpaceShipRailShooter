@@ -1,2 +1,1 @@
-# SpaceShipRailShooter
-This is a spaceship railshooter project I created during class, where I personally developed every aspect of the asset. All the models, textures, visual effects, animations, and scripts were designed and implemented by me.
+This is a spaceship project I developed during a class assignment. I was responsible for creating every element of the project, including the 3D models, textures, visual effects, animations, and scripts. This project allowed me to practice and improve my skills in Unity, asset creation, and game programming, while gaining hands-on experience in designing a complete game object from scratch.
