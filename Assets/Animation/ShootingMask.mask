@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShootingMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Jnt_Body
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_BodyEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_BodyEnd/Jnt_CockpitSas
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_BodyEnd/Jnt_CockpitSas/Jnt_CockpitSasEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_BodyEnd/Jnt_CockpitSas/Jnt_CockpitSasEnd/Jnt_CockpitWindow
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_BodyEnd/Jnt_CockpitSas/Jnt_CockpitSasEnd/Jnt_CockpitWindow/Jnt_CockpitWindowEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_BodyEnd/Jnt_CockpitSas/Jnt_CockpitSasEnd/Jnt_CockpitWindow/Jnt_CockpitWindowEnd/Jnt_CockPitEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_BodyEnd/Jnt_CockpitSas/Jnt_CockpitSasEnd/Jnt_CockpitWindow/Jnt_CockpitWindowEnd/Jnt_LinkLaser
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_BodyEnd/Jnt_CockpitSas/Jnt_CockpitSasEnd/Jnt_CockpitWindow/Jnt_CockpitWindowEnd/Jnt_LinkLaser/Jnt_LaserBase
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_BodyEnd/Jnt_CockpitSas/Jnt_CockpitSasEnd/Jnt_CockpitWindow/Jnt_CockpitWindowEnd/Jnt_LinkLaser/Jnt_LaserBase/Jnt_LaserCanon
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_BodyEnd/Jnt_CockpitSas/Jnt_CockpitSasEnd/Jnt_CockpitWindow/Jnt_CockpitWindowEnd/Jnt_LinkLaser/Jnt_LaserBase/Jnt_LaserCanon/Jnt_LaserCanonEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_BodyEnd/Jnt_CockpitSas/Jnt_CockpitSasEnd/Jnt_CockpitWindow/Jnt_CockpitWindowEnd/Jnt_LinkLaser/Jnt_LaserBase/Jnt_LaserCanon/Jnt_LaserCanonEnd/Jnt_LaserEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_L/Jnt_LinkTurret_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_L/Jnt_LinkTurret_L/Jnt_TurretBase_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_L/Jnt_LinkTurret_L/Jnt_TurretBase_L/Jnt_CanonTurret_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_L/Jnt_LinkTurret_L/Jnt_TurretBase_L/Jnt_CanonTurret_L/Jnt_Canon_L
+    m_Weight: 1
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_L/Jnt_LinkTurret_L/Jnt_TurretBase_L/Jnt_CanonTurret_L/Jnt_Canon_L/Jnt_EndCanon_L
+    m_Weight: 1
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_L/Jnt_WingFlapBase_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_L/Jnt_WingFlapBase_L/Jnt_WingFlapEnd_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_R/Jnt_LinkTurret_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_R/Jnt_LinkTurret_R/Jnt_TurretBase_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_R/Jnt_LinkTurret_R/Jnt_TurretBase_R/Jnt_CanonTurret_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_R/Jnt_LinkTurret_R/Jnt_TurretBase_R/Jnt_CanonTurret_R/Jnt_Canon_R
+    m_Weight: 1
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_R/Jnt_LinkTurret_R/Jnt_TurretBase_R/Jnt_CanonTurret_R/Jnt_Canon_R/Jnt_EndCanon_R
+    m_Weight: 1
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_R/Jnt_WingFlapBase_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_LinkBodyWings/Jnt_WingBase_R/Jnt_WingFlapBase_R/Jnt_WingFlapEnd_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_1_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_1_L/Jnt_LeactorFlapEnd_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_2_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_2_L/Jnt_LeactorFlapEnd_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_3_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_3_L/Jnt_LeactorFlapEnd_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_4_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_4_L/Jnt_LeactorFlapEnd_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_5_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_5_L/Jnt_LeactorFlapEnd_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_6_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_6_L/Jnt_LeactorFlapEnd_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_7_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_7_L/Jnt_LeactorFlapEnd_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_8_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_8_L/Jnt_LeactorFlapEnd_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_9_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_9_L/Jnt_LeactorFlapEnd_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_10_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_L/Jnt_ReactorEnd_L/Jnt_ReactorFlapBase_10_L/Jnt_LeactorFlapEnd_L
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_1
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_1/Jnt_ReactorEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_2
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_2/Jnt_ReactorEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_3
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_3/Jnt_ReactorEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_4
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_4/Jnt_ReactorEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_5
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_5/Jnt_ReactorEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_6
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_6/Jnt_ReactorEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_7
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_7/Jnt_ReactorEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_8
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_8/Jnt_ReactorEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_9
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_9/Jnt_ReactorEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_10
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_M/Jnt_ReactorEnd_M/Jnt_ReactorFlapBase_10/Jnt_ReactorEnd
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_1_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_1_R/Jnt_ReactorFlapEnd_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_2_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_2_R/Jnt_ReactorFlapEnd_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_3_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_3_R/Jnt_ReactorFlapEnd_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_4_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_4_R/Jnt_ReactorFlapEnd_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_5_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_5_R/Jnt_ReactorFlapEnd_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_6_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_6_R/Jnt_ReactorFlapEnd_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_7_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_7_R/Jnt_ReactorFlapEnd_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_8_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_8_R/Jnt_ReactorFlapEnd_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_9_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_9_R/Jnt_ReactorFlapEnd_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_10_R
+    m_Weight: 0
+  - m_Path: Jnt_Body/Jnt_ReactorLink/Jnt_ReactorBase_R/Jnt_ReactorEnd_R/Jnt_ReactorFlapBase_10_R/Jnt_ReactorFlapEnd_R
+    m_Weight: 0
+  - m_Path: Spaceship_Geo
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/Body
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/Cockpit
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/LaserGun
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/LittleWing_LeftDown
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/LittleWing_LeftUp
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/LittleWing_RightDown
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/LittleWing_RightUp
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/Reactor_Left
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/Reactor_Middle
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/Reactor_Right
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/Turret_Left
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/Turret_Right
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/Wing_Left
+    m_Weight: 0
+  - m_Path: Spaceship_Geo/Wing_Right
+    m_Weight: 0
